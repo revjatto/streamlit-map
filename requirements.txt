@@ -1,0 +1,5 @@
+sreamlit
+pandas
+numpy
+matplotlib
+altair
