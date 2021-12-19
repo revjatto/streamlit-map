@@ -1,5 +1,7 @@
-sreamlit
-pandas
-numpy
-matplotlib
-altair
+sreamlit==1.3.0
+pandas==1.3.4
+numpy==1.21.4
+matplotlib==3.5.1
+plotly-expree==0.4.1
+pillow==8.4.0
+altair==4.1.0
