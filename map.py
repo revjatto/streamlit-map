@@ -11,10 +11,10 @@ data = pd.DataFrame(
         )
 
 city = pd.DataFrame({
-'nigerian_cities' : ['Lagos', 'Abeokuta', 'Port Harcourt', 'Maiduguri', 'Kano', 
+'nigerian_cities' : ['Federal Capital Territory, Abuja', 'Lagos', 'Abeokuta', 'Port Harcourt', 'Maiduguri', 'Kano', 
 'Katsina', 'Nnewi, Anambra', 'Agbor, Ika South', 'Ikeja, Lagos', 'Ughelli', 'Akure'],
-'latitude' : [6.465422, 7.145244, 4.824167, 11.833333, 12.000000, 12.985531, 6.010519, 6.264092, 6.605874, 5.500187, 7.250771],
-'longitude' : [3.406448, 3.327695, 7.033611, 13.150000, 8.516667, 7.617144, 6.910345, 6.201883, 3.349149, 5.993834,  5.210266]
+'latitude' : [9.072264, 6.465422, 7.145244, 4.824167, 11.833333, 12.000000, 12.985531, 6.010519, 6.264092, 6.605874, 5.500187, 7.250771],
+'longitude' : [7.491302, 3.406448, 3.327695, 7.033611, 13.150000, 8.516667, 7.617144, 6.910345, 6.201883, 3.349149, 5.993834,  5.210266]
 })
 
 st.image('Kings.PNG', width=900)
